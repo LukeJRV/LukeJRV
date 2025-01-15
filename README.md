@@ -1,7 +1,5 @@
 # LukeVizor
 
----
-
 # Hi, I'm Luke Vizor 👋  
 **Aspiring Software Developer**  
 - 📚 Studying BSc in Computing with Electronic Engineering.  
@@ -32,3 +30,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+---
+
+🎓 **Currently Studying:**
+✦ 📘 REACT

@@ -1,6 +1,7 @@
 # LukeVizor
 
-# Hi, I'm Luke Vizor 👋  
+# Hi, I'm Luke 👋  
+
 **Aspiring Software Developer**  
 - 📚 Studying BSc in Computing with Electronic Engineering.  
 - 💻 Bootcamp Graduate | Python, Javascript, HTML, CSS, Git.  

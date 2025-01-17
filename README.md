@@ -1,6 +1,8 @@
-# LukeVizor
+# Luke_Vizor
 
+<p align="center">
 # Hi, I'm Luke 👋  
+</p>
 
 **Aspiring Software Developer**  
 - 📚 Studying BSc in Computing with Electronic Engineering.  

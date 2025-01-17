@@ -18,14 +18,12 @@
 ---
 
 ## 📂 My Projects  
-- [Portfolio Website](https://github.com/LukeVizor/PortfolioWebsite)  
-- [Python Finance Tracker](https://github.com/LukeVizor/PythonFinanceTracker)
+- [Portfolio Website]([https://github.com/LukeVizor/PortfolioWebsite](https://lukejrv.github.io/))  
+- [Weather Application](Coming Soon!)
 
 ---
 
 🛠️ **Languages & Tools**
-
----
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)

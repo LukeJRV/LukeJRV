@@ -1,8 +1,26 @@
-# Luke_Vizor
+<p align="center">
+  <img src="https://64.media.tumblr.com/cd0a47a3946cd5e24dacba4e6d37f132/8c235c1c0f5748b1-09/s540x300/bc5c60e48e39d38c4af4ef7e49823ab87a54344d.gif" alt="Your GIF description" />
+</p>
 
+<div id="socials" align="center">
+<a href="https://www.linkedin.com/in/luke-vizor/">
+<img src="https://img.shields.io/badge/LinkedIn-140f1c?logo=linkedin&logoColor=white&style=for-the-badge"/>
+</a>
+</div>
+
+<div id="counter" align="center">
+<img src="https://komarev.com/ghpvc/?username=LukeJRV&style=flat-square&color=140f1c" alt=""/>
+</div>
+  
 <p align="center">
 # Hi, I'm Luke 👋  
 </p>
+
+--- 
+
+### About Me :
+
+---
 
 **Aspiring Software Developer**  
 - 📚 Studying BSc in Computing with Electronic Engineering.  
@@ -25,13 +43,31 @@
 
 🛠️ **Languages & Tools**
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<br>
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="trello" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" alt="axios" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="godot" height="40" width="40"/>
+<img src="https://github.com/aseprite/aseprite/blob/main/data/icons/ase48.png" alt="aseprite" height="40" width="40"/>
+</div>
 
 ---
 
-🎓 **Currently Studying:**
-✦ 📘 REACT
+### 🎓 Currently Learning:
+✦ 📘 REACT / C#
+
+---
+
+### 👾 My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LukeJRV&theme=buefy-dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeJRV&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

@@ -22,7 +22,7 @@
 
 ---
 
-**Aspiring Software Developer**  
+**Software Developer**  
 - 📚 Studying BSc in Computing with Electronic Engineering.  
 - 💻 Bootcamp Graduate | Python, Javascript, HTML, CSS, Git.  
 - 🌟 Passionate about creating user-friendly software.

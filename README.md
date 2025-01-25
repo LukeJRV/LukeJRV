@@ -23,9 +23,9 @@
 ---
 
 **Software Developer**  
-- 📚 Studying BSc in Computing with Electronic Engineering.  
-- 💻 Bootcamp Graduate | Python, Javascript, HTML, CSS, Git.  
-- 🌟 Passionate about creating user-friendly software.
+- 📚 Studying BSc in Computing & IT with Electronic Engineering.  
+- 💻 Bootcamp Graduate | JavaScript, HTML, CSS, Python, GitHub, React, C#, Node.js.  
+- 🌟 Passionate about creating user-friendly innovative software.
 
 ---
 

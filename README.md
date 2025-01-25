@@ -36,10 +36,10 @@
 ---
 
 ## 📂 My Projects  
-- [Portfolio Website]([https://github.com/LukeVizor/PortfolioWebsite](https://lukejrv.github.io/)) 
-- [Web3-dApp]([https://github.com/LukeJRV/web3-dapp])
-- [PHP Project](Coming Soon!)
-- [Weather Application](Coming Soon!)
+- [Portfolio Website](https://lukejrv.github.io/)
+- [Web3-dApp](https://github.com/LukeJRV/web3-dapp)
+- PHP Project: Coming Soon!
+- Weather Application: Coming Soon!
 
 ---
 
